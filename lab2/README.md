@@ -68,5 +68,3 @@ microk8s kubectl delete deployment hello-k8s
 - Kubernetes adds **scaling, self‑healing, and service discovery**.  
 - This lab demonstrates why Kubernetes is needed beyond Docker.  
 
-
-Prayag, would you like me to continue preparing **Lab 3 README** next in the same structured style, so you’ll have a full “lab manual” sequence across all 30 days?
