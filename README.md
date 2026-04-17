@@ -38,4 +38,3 @@
 29. **Day 29**: CRDs & custom controllers  
 30. **Day 30**: Cluster operations & career roadmap  
 
----
