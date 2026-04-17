@@ -6,13 +6,10 @@ Learn how to inspect and understand the **core Kubernetes objects**:
 - Pods (smallest deployable unit)  
 - Deployments (manages ReplicaSets and Pods)  
 
----
-
 ## Prerequisites
 - MicroK8s installed and running (`microk8s status --wait-ready`).  
 - Familiarity with basic terminal commands.  
 
----
 
 ## Step 1: Inspect Nodes
 List all nodes in the cluster:
@@ -29,8 +26,6 @@ Check node resources:
 ```bash
 microk8s kubectl top nodes
 ```
-
----
 
 ## Step 2: Explore Pods
 Deploy a sample Pod:
@@ -52,8 +47,6 @@ Check Pod logs:
 ```bash
 microk8s kubectl logs demo-pod
 ```
-
----
 
 ## Step 3: Work with Deployments
 Create a Deployment:
