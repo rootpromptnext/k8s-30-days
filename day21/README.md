@@ -53,7 +53,7 @@ microk8s kubectl get hpa
 
 HPA scales Pods based on CPU usage metrics.
 
-## Step 5: Generate Load (Optional)
+## Step 5: Generate Load 
 Run a busybox Pod to stress test:
 ```bash
 microk8s kubectl run load-generator --image=busybox -- \
