@@ -103,4 +103,3 @@ microk8s kubectl delete pod demo-pod
 - **Pods** are the smallest deployable unit.  
 - **Deployments** manage Pods and ensure desired state.  
 - Services expose Deployments to external traffic.  
-

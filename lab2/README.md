@@ -67,4 +67,3 @@ microk8s kubectl delete deployment hello-k8s
 - Docker runs containers, but Kubernetes **orchestrates** them.  
 - Kubernetes adds **scaling, self‑healing, and service discovery**.  
 - This lab demonstrates why Kubernetes is needed beyond Docker.  
-
